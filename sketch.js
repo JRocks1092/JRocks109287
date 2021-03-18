@@ -45,7 +45,7 @@ function draw() {
 
   background(230);
   //Add code for displaying text here!
-  //image(boy ,200,340,200,300);
+  image(boy ,200,340,200,300);
   
 
   treeObj.display();
